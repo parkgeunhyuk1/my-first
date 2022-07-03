@@ -1,0 +1,8 @@
+.grind-container{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+
+}
+.grind-item{
+    border: 1px solid black;
+}
